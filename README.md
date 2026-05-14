@@ -1,7 +1,7 @@
 # Custom Linker Scripts for Embedded Systems
 
 ## Overview
-This repository contains a collection of custom linker scripts (`.ld`) written from scratch. Each script is designed to map application code and data into memory based on specific hardware datasheets and board specifications. 
+This repository contains a collection of custom linker scripts (`.ld`) written from scratch. Each script is designed to map application code and data into memory based on specific hardware datasheets and board Specifications. 
 
 ## Projects Included
 
