@@ -10,7 +10,7 @@ MEMORY
 
 SECTIONS 
 {
-    #we are bascially tellinh put this isr vector in to the FLASH region
+    #we are bascially telling put this isr vector in to the FLASH region
     .isr_vector:
     {
         *(.isr_vector)
